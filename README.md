@@ -3,10 +3,10 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/geeky-nextjs/)
+ - 
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/geeky-nextjs/)
+ - 
  
  
 ## Getting Started
